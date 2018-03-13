@@ -1,2 +1,1 @@
-# SLHS-Handbook-InDesign-Files
-PDF Version
+# SLHS-Handbook
